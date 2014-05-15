@@ -9,18 +9,18 @@ permalink:        pretty
 baseurl:          /fantastiq
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+title:            '@nazrulhisham_'
+tagline:          'Everlasting Harmony & Serenity'
+description:      'Rakyat marhaen. Bejiwa besar, bercita-cita tinggi tapi tak tahan godaan. Pandai menghormati orang yang lebih tua. Sedikit mata duitan. Suka makan. Paling getik layan kebodohan orang dan benci buang masa.<br />[fb]<br />[tw]<br />[ig]<br />'
+url:              http://nazrulhisham.net
 paginate:         3
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Nazrul Hisham'
+  url:            https://twitter.com/nazrulhisham_
 
 # Custom vars
-version:          1.0.0
+version:          0.0.1
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/lumachroma/fantastiq
