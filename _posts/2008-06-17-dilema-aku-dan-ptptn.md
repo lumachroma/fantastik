@@ -15,7 +15,8 @@ Sebab aku masih berhutang dengan MMU, masa aku *convo*, aku naik pentas dapat ko
 
 
 ```
-Dulu aku ada motor cabuk buat modal untuk pergi kelas dan jalan-jalan keliling Melaka.
+Dulu aku ada motor cabuk buat modal untuk pergi kelas
+dan jalan-jalan keliling Melaka.
 Tapi alhamdulillah sekarang aku dah bekerja.
 
 Dapat kerja yang elok.
@@ -23,7 +24,7 @@ Gaji pun boleh tahan.
 Dah boleh makan sedap.
 Dah boleh pergi melancong.
 Dah berkereta.
-Dah [berpasangan](http://amischaheera.com/).
+Dah berpasangan.
 ```
 
 Tapi hutang apa cerita?
