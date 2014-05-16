@@ -8,6 +8,10 @@ layout: default
   {{ content }}
 </div>
 
+<!-- Facebook Comments -->
+<div class="fb-comments" data-href="{{ site.url }}{{ site.baseurl }}{{ post.url }}{{ page.url }}" data-numposts="5" data-colorscheme="light"></div>
+
+
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -23,6 +27,3 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-
-<!-- Facebook Comments -->
-<div class="fb-comments" data-href="{{ site.url }}{{ site.baseurl }}{{ post.url }}{{ page.url }}" data-numposts="5" data-colorscheme="light"></div>
