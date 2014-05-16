@@ -18,9 +18,7 @@ title: Home
   </div>
   
   <!-- Facebook Comments -->
-  <p class="message">
-    <fb:comments-count href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"></fb:comments-count> awesome comments.
-  </p>
+  <p><fb:comments-count href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"></fb:comments-count> awesome <a href="{{ site.baseurl }}{{ post.url }}#cmnts">comment(s)</a>.</p>
   
   {% endfor %}
 </div>
