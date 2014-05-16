@@ -3,36 +3,14 @@ layout: post
 title: Introducing Lanyon
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+### Lorem Ipsum
 
-### Built on Poole
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar lobortis ipsum, et vehicula enim tincidunt eu. Duis id vehicula augue, et pretium nulla. Curabitur sit amet mi dapibus, rutrum velit eu, aliquam enim. Sed sit amet suscipit erat. Nam pretium ut neque at varius. Praesent condimentum sagittis nunc vitae lacinia. Fusce dapibus lectus a dui scelerisque gravida. Sed bibendum turpis et ante vulputate, eget consectetur mi vehicula.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+Etiam id varius justo. Aliquam ac bibendum turpis. Proin rhoncus vel enim sed varius. Proin ultrices aliquet nulla, a tempus nisi euismod ut. Integer accumsan orci leo, et porta tortor iaculis at. Ut et odio ut ante tempus fermentum. Vivamus id ipsum varius, ultrices mi quis, pulvinar est. Sed iaculis in mauris sed bibendum. Donec adipiscing venenatis velit et suscipit. Mauris rutrum libero vel urna semper, at dignissim ante tempor. Sed eget accumsan risus, at feugiat nisi. Nullam viverra odio vehicula, laoreet dui vitae, viverra metus.
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+Pellentesque sit amet odio lacus. Curabitur hendrerit lorem in nulla rutrum, facilisis tincidunt orci laoreet. Integer eget orci risus. Suspendisse pulvinar neque at erat semper commodo. In tempus auctor nisl tristique hendrerit. Suspendisse venenatis lectus vitae elit commodo eleifend. Vestibulum vel lectus sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla convallis et tellus vel pharetra. Nullam sit amet sem convallis, tempor urna ac, suscipit dui. Praesent vulputate justo purus, quis lobortis odio vestibulum ut.
 
-### Lanyon features
+Curabitur tristique lacus ut arcu semper, in vulputate tortor mollis. Donec mollis sem nec quam consectetur condimentum. Morbi elementum, neque sit amet posuere aliquet, erat nibh egestas sapien, sit amet consequat nunc sapien eget mauris. Donec orci risus, congue in metus nec, pulvinar luctus dolor. Ut mollis, lacus a accumsan imperdiet, diam sem ullamcorper massa, sed sollicitudin lectus tellus vitae neque. Nam sapien odio, suscipit non ligula ultricies, viverra mollis enim. Nullam accumsan risus in justo suscipit, ac bibendum risus ornare. Donec blandit venenatis ornare. Nullam feugiat ullamcorper diam, condimentum malesuada felis scelerisque ut.
 
-In addition to the features of Poole, Lanyon adds the following:
-
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
-
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+Mauris ut tempor risus. Integer et dui massa. Suspendisse semper sem a magna placerat, vitae suscipit mi semper. Sed et facilisis dolor. Sed in nisi sodales, suscipit diam placerat, iaculis nisi. Mauris metus lectus, pharetra aliquam fringilla id, pharetra sed leo. Vivamus consequat ligula volutpat ultrices imperdiet. Nullam et pellentesque nisi, quis sodales eros. Suspendisse sodales nisi sit amet libero elementum imperdiet. Quisque pulvinar a metus ac mollis. Cras rhoncus turpis augue, eget blandit massa sollicitudin at. Praesent felis velit, pellentesque et tellus id, commodo scelerisque nunc.
