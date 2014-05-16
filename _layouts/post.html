@@ -8,6 +8,9 @@ layout: default
   {{ content }}
 </div>
 
+<div class="fb-like" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-text="{{ page.title }}">Tweet</a>
+
 <!-- Facebook Comments -->
 <p><fb:comments-count href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"></fb:comments-count> awesome <a id="cmnts">comment(s)</a>.</p>
 <div class="fb-comments" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-numposts="5" data-colorscheme="light"></div>
