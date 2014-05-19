@@ -26,7 +26,7 @@ Tak tutup lampu rupanya.
 
 Padanlah...
 
-===
+* * *
   
 Malam sudah larut. Hujan rintik-rintik. Angin sepoi-sepoi. Sejuk yang amat.
 Kalau dapat tidur tak pakai baju. Selubung kain Pelikat Chop Gadja. Memang
@@ -56,4 +56,4 @@ Rampwalk Remo tersenyum sambil memperbetulkan jambulnya yang beropol-ropol.
 Walaupun perasaannya girang bercampur bangga tetapi hati Rampwalk Remo masih
 gementar...
   
-===
+* * *
