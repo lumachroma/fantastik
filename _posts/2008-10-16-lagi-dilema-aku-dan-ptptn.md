@@ -49,7 +49,7 @@ Engkau orang nak tahu?
 
 Aku bukan ingkar.
 
-Aku tak mampu la ~~bahlul~~.
+Aku tak mampu la <strike>bahlul</strike>.
 
 *Weh* PTPTN! *Skang lu mau tolong gua ke lu tak mau tolong gua*?
 
