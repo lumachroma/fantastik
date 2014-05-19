@@ -7,7 +7,7 @@ Dilema aku dan PTPTN telah bermula sejak aku menandatangani perjanjian dengan me
 
 Lama dulu, bila aku masih belajar di [MMU](http://www.mmu.edu.my), masalah yang selalu timbul antara lain ialah kelewatan pembayaran. Tak lama dulu, bila aku baru mula bekerja, masalah yang timbul antara lain ialah aku tiada wang yang cukup untuk membuat pembayaran balik. Baru-baru ini, bila aku sudah agak mampu untuk membuat pembayaran balik, masalah yang timbul antara lain ialah aku sangsi dengan kaedah pembayaran yang begitu membebankan dan mencurigakan.
 
-Baca '[Dilema Aku dan PTPTN](http://hello.nazrulhisham.net/2008/06/17/dilema-aku-dan-ptptn/l)' untuk *feel* yang lebih *kaw* sebelum baca perenggan- perenggan seterusnya.
+Baca '[Dilema Aku dan PTPTN](http://hello.nazrulhisham.net/2008/06/17/dilema-aku-dan-ptptn/)' untuk *feel* yang lebih *kaw* sebelum baca perenggan- perenggan seterusnya.
 
 Juga baru-baru ni, PTPTN melalui Timbalan Menteri Pengajian Tinggi Datuk Idris Haron berkata mereka akan [**turunkan caj perkhidmatan**](http://www.utusan.com.my/utusan/info.asp?y=2008&dt=0610&pub=Utusan_Malaysia&sec=Pendidikan&pg=pe_03.htm) dalam *sokkabar*. *Wah!* Masa tu aku dah pasang angan-angan. Bolehlah aku hidup senang sikit walaupun sambil buat pembayaran balik PTPTN. Kalau betul kena gayanya, memang aku akan bayar hutang aku dengan PTPTN ni.
 
