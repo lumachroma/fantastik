@@ -45,7 +45,7 @@ Menyirap darah aku!
   
 Engkau orang nak tahu?
 
-![Alt text](http://4.bp.blogspot.com/_e86KQvrn6dg/SPai0xWsx5I/AAAAAAAAACw/_zbbsHcvEpw/s320/ingkar.png)
+![Alt text](http://4.bp.blogspot.com/_e86KQvrn6dg/SPai0xWsx5I/AAAAAAAAACw/_zbbsHcvEpw/s640/ingkar.png)
 
 Aku bukan ingkar.
 
