@@ -40,5 +40,4 @@ Minyak dah turun harga, bendera masih tak turun harga lagi? <br />
 ---
 ####NOTA PANGLIPURLARA:
 
-Satu je yang sama. Hari merdeka tetap cuti umum. Bendera tak bendera ... <br />
-meriah tak meriah. Cuti tetap cuti. *Enjoy the holiday*!
+Satu *je* yang sama. Hari merdeka tetap cuti umum. Bendera tak bendera ... meriah tak meriah. Cuti tetap cuti. *Enjoy the holiday*!
