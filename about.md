@@ -4,27 +4,19 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pharetra, velit et pellentesque tempor, arcu dolor mollis sapien, in faucibus massa metus mollis lacus.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Sed tortor nulla, euismod eget fringilla sit amet, placerat quis nisi. Praesent tempor volutpat dapibus. Integer cursus metus nec mattis scelerisque. Etiam ultrices lorem id quam porta viverra. Pellentesque non mi at diam facilisis vulputate et et magna. Praesent elementum imperdiet metus eu facilisis. Nunc non mattis odio. Curabitur aliquam tempus interdum. Nunc porta varius ipsum at feugiat. Quisque suscipit sem sed ipsum semper auctor.
 
-There are currently two themes built on Poole:
+Integer sit amet justo in quam iaculis congue. Vestibulum massa tortor, placerat in ipsum quis, placerat sagittis eros. Aliquam ultricies tincidunt sapien, nec fermentum mauris iaculis nec. Donec quis est in purus placerat ultrices non eleifend ligula. Sed lacus turpis, tincidunt vel porttitor sit amet, malesuada eu elit. Morbi sit amet lorem at nibh tristique tincidunt quis nec massa. Quisque lorem lorem, pellentesque a neque ac, rhoncus dapibus nisi. Mauris ultrices mi non turpis aliquet volutpat. Vivamus tempor dolor fringilla, mattis libero eget, varius erat. Pellentesque quis fringilla felis.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+#About the site
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+In case you were wondering, this site is:
++ Designed on and coded on a [Windows]() in [Kuala Lumpur]()
++ Coded with [Notepad++]()
++ Built on [Jekyll](), the open source static site generator
++ Hosted on [GitHub]() Pages
++ Made with [Poole]() and its theme [Lanyon]()
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
