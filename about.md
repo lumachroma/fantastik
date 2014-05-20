@@ -14,8 +14,10 @@ Integer sit amet justo in quam iaculis congue. Vestibulum massa tortor, placerat
 #About the site
 
 In case you were wondering, this site is:
-- Designed on and coded on a [Windows]() in [Kuala Lumpur]()
-- Coded with [Notepad++]()
-- Built on [Jekyll](), the open source static site generator
-- Hosted on [GitHub]() Pages
-- Made with [Poole]() and its theme [Lanyon]()
+- Designed on and coded on a [Windows](http://windows.microsoft.com/) in [Kuala Lumpur](http://en.wikipedia.org/wiki/Kuala_Lumpur)
+- Coded with [Notepad++](http://notepad-plus-plus.org/)
+- Built on [Jekyll](http://jekyllrb.com/), the open source static site generator
+- Hosted on [GitHub](https://github.com/lumachroma/fantastiq) Pages
+- Made with [Poole](http://getpoole.com/) and its theme [Lanyon](https://github.com/poole/lanyon)
+
+Hey Ho!
