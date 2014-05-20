@@ -4,17 +4,12 @@ title: About
 ---
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor elit, laoreet sed odio id, volutpat pellentesque justo.
 </div>
 
+Suspendisse potenti. Maecenas adipiscing tincidunt sem, id dapibus orci pellentesque vel. Etiam scelerisque quis sapien id mattis. Sed facilisis mauris vitae aliquam rutrum. Curabitur posuere augue at eros sodales pellentesque. Quisque a consequat massa, eu fermentum lorem. Nulla sed tellus purus. Fusce pellentesque enim ac elit blandit tempus. Praesent augue velit, tristique vel aliquet non, congue non lorem.
 
-# Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+Cras nulla velit, blandit id tortor ut, facilisis scelerisque lacus. Proin porta vel nunc sed cursus. Nulla et tempor ligula. Sed porta urna eu laoreet porta. Donec consequat odio et scelerisque ultricies. Nulla quis massa sed neque blandit luctus. Phasellus imperdiet placerat suscipit. Integer blandit condimentum ipsum, et mollis arcu cursus eu.
 
 In case you were wondering, this site is
 
@@ -23,12 +18,6 @@ In case you were wondering, this site is
 - Built on [Jekyll](http://jekyllrb.com/), the open source static site generator
 - Hosted on [GitHub](https://github.com/lumachroma/fantastiq) Pages
 - Made with [Poole](http://getpoole.com/) and its theme [Lanyon](https://github.com/poole/lanyon)
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
 
 -----
 
