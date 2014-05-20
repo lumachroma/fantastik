@@ -3,21 +3,120 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pharetra, velit et pellentesque tempor, arcu dolor mollis sapien, in faucibus massa metus mollis lacus.
-</p>
+<div class="message">
+  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+</div>
 
-Sed tortor nulla, euismod eget fringilla sit amet, placerat quis nisi. Praesent tempor volutpat dapibus. Integer cursus metus nec mattis scelerisque. Etiam ultrices lorem id quam porta viverra. Pellentesque non mi at diam facilisis vulputate et et magna. Praesent elementum imperdiet metus eu facilisis. Nunc non mattis odio. Curabitur aliquam tempus interdum. Nunc porta varius ipsum at feugiat. Quisque suscipit sem sed ipsum semper auctor.
+Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-Integer sit amet justo in quam iaculis congue. Vestibulum massa tortor, placerat in ipsum quis, placerat sagittis eros. Aliquam ultricies tincidunt sapien, nec fermentum mauris iaculis nec. Donec quis est in purus placerat ultrices non eleifend ligula. Sed lacus turpis, tincidunt vel porttitor sit amet, malesuada eu elit. Morbi sit amet lorem at nibh tristique tincidunt quis nec massa. Quisque lorem lorem, pellentesque a neque ac, rhoncus dapibus nisi. Mauris ultrices mi non turpis aliquet volutpat. Vivamus tempor dolor fringilla, mattis libero eget, varius erat. Pellentesque quis fringilla felis.
+> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-#About the site
+Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-In case you were wondering, this site is
-- Designed on and coded on a [Windows](http://windows.microsoft.com/) in [Kuala Lumpur](http://en.wikipedia.org/wiki/Kuala_Lumpur)
-- Coded with [Notepad](http://notepad-plus-plus.org/)
-- Built on [Jekyll](http://jekyllrb.com/), the open source static site generator
-- Hosted on [GitHub](https://github.com/lumachroma/fantastiq) Pages
-- Made with [Poole](http://getpoole.com/) and its theme [Lanyon](https://github.com/poole/lanyon)
+## Inline HTML elements
 
-Hey Ho!
+HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+
+- **To bold text**, use `<strong>`.
+- *To italicize text*, use `<em>`.
+- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
+- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
+- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
+- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+
+Most of these elements are styled by browsers with few modifications on our part.
+
+## Heading
+
+Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
+### Code
+
+Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+
+{% highlight js %}
+// Example can be run directly in your JavaScript console
+
+// Create a function that takes two arguments and returns the sum of those arguments
+var adder = new Function("a", "b", "return a + b");
+
+// Call the function
+adder(2, 6);
+// > 8
+{% endhighlight %}
+
+Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+
+### Lists
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+* Donec id elit non mi porta gravida at eget metus.
+* Nulla vitae elit libero, a pharetra augue.
+
+Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+
+1. Vestibulum id ligula porta felis euismod semper.
+2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+
+Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+
+<dl>
+  <dt>HyperText Markup Language (HTML)</dt>
+  <dd>The language used to describe and define the content of a Web page</dd>
+
+  <dt>Cascading Style Sheets (CSS)</dt>
+  <dd>Used to describe the appearance of Web content</dd>
+
+  <dt>JavaScript (JS)</dt>
+  <dd>The programming language used to build advanced Web sites and applications</dd>
+</dl>
+
+Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+### Tables
+
+Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Upvotes</th>
+      <th>Downvotes</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Totals</td>
+      <td>21</td>
+      <td>23</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Alice</td>
+      <td>10</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>Bob</td>
+      <td>4</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Charlie</td>
+      <td>7</td>
+      <td>9</td>
+    </tr>
+  </tbody>
+</table>
+
+Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+-----
+
+Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+
