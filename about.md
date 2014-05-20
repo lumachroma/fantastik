@@ -13,9 +13,9 @@ Cras nulla velit, blandit id tortor ut, facilisis scelerisque lacus. Proin porta
 
 # About this page
 
-Just for your information, this site is
+Just for your information, this site is:
 
-- Designed on and coded on a [Windows](http://windows.microsoft.com/) in [Kuala Lumpur](http://en.wikipedia.org/wiki/Kuala_Lumpur)
+- Designed and coded on [Windows](http://windows.microsoft.com/) in [Kuala Lumpur](http://en.wikipedia.org/wiki/Kuala_Lumpur)
 - Coded with [Notepad++](http://notepad-plus-plus.org/)
 - Built on [Jekyll](http://jekyllrb.com/), the open source static site generator
 - Hosted on [GitHub](https://github.com/lumachroma/fantastiq) Pages
