@@ -13,19 +13,16 @@ Naik bukit, turun bukit, masuk hutan, keluar hutan, akhirnya aku graduate...
 
 Sebab aku masih berhutang dengan MMU, masa aku *convo*, aku naik pentas dapat kotak kosong *je*. Sampai sekarang MMU masih 'pegang' *scroll* (ijazah) aku. Nasib baik MMU, kalau Ahlong, dah lama tangan aku kena kerat.
 
+Dulu aku ada motor cabuk buat modal untuk pergi kelas  
+dan jalan-jalan keliling Melaka.  
+Tapi alhamdulillah sekarang aku dah bekerja.  
 
-```
-Dulu aku ada motor cabuk buat modal untuk pergi kelas
-dan jalan-jalan keliling Melaka.
-Tapi alhamdulillah sekarang aku dah bekerja.
-
-Dapat kerja yang elok.
-Gaji pun boleh tahan.
-Dah boleh makan sedap.
-Dah boleh pergi melancong.
-Dah berkereta.
-Dah berpasangan.
-```
+Dapat kerja yang elok.  
+Gaji pun boleh tahan.  
+Dah boleh makan sedap.  
+Dah boleh pergi melancong.  
+Dah berkereta.  
+Dah berpasangan.  
 
 Tapi hutang apa cerita?
 
