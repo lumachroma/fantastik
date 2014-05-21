@@ -19,7 +19,7 @@ Aku masih ingat lagi tempat gah itu.
 
 Masakan aku boleh lupa. Antara tempat-tempat yang masih aku singgah kalau aku lalu. Tempat di mana aku mula belajar berdikari. Belajar selok belok kehidupan.
 
-Banyak yang aku timba di situ. Banyak yang aku harung di situ. Sepanjang lima tahun aku di situ, banyak yang telah aku tempuhidi situ. Pahit, manis, suka, duka. Sejak pertama kali aku menjejakkan kaki di situ sampailah terakhir kali aku
+Banyak yang aku timba di situ. Banyak yang aku harung di situ. Sepanjang lima tahun aku di situ, banyak yang telah aku tempuhi di situ. Pahit, manis, suka, duka. Sejak pertama kali aku menjejakkan kaki di situ sampailah terakhir kali aku
 melangkah keluar dari situ, tak pernah aku kesal tentang apa yang telah dan pernah berlaku di situ.
 
 Sebab? *__Ianya hebat! Ianya epik!__*
