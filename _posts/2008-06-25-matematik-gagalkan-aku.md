@@ -3,22 +3,11 @@ layout: post
 title: 'Matematik Gagalkan Aku (buat kali yang keseratus lebih)'
 ---
 
-Selepas baca entri [pipiyapong
-](http://www.blogger.com/profile/03677813150312790630)yang buat aku ketawa
-pecah perut, aku teringat. Dulu aku pernah ketawa macam ni. Baru aku sedar,
-bukan [ilusi optik](http://www.cs.toronto.edu/~moraes/illusion.html) saja yang
-wujud, [ilusi minda](http://hilangpunca.blogspot.com/2008/06/pengalaman-saya-
-berhadapan-dengan-kawan.html) pun ada.
+Selepas baca entri [pipiyapong](http://www.blogger.com/profile/03677813150312790630)yang buat aku ketawa pecah perut, aku teringat. Dulu aku pernah ketawa macam ni. Baru aku sedar, bukan [ilusi optik](http://www.cs.toronto.edu/~moraes/illusion.html) saja yang wujud, [ilusi minda](http://hilangpunca.blogspot.com/2008/06/pengalaman-saya-berhadapan-dengan-kawan.html) pun ada.
 
-Lewat malam itu, aku dan kawan-kawan baru habis tengok wayang. Cerita apa, aku
-tak ingat. Badan sejuk. Perut lapar. Tak tahu siapa punya idea, tahu-tahu
-semua dah bergerak menuju ke Hartamas. Punya susah nak parkir dekat Hartamas
-ni, pusing-pusing sepuluh kali belum tentu jumpa. Last-last jumpa parkir depan
-Burger King. Perut memang dah berbunyi. Burger pun jadilah.
+Lewat malam itu, aku dan kawan-kawan baru habis tengok wayang. Cerita apa, aku tak ingat. Badan sejuk. Perut lapar. Tak tahu siapa punya idea, tahu-tahu semua dah bergerak menuju ke Hartamas. Punya susah nak parkir dekat Hartamas ni, pusing-pusing sepuluh kali belum tentu jumpa. Last-last jumpa parkir depan Burger King. Perut memang dah berbunyi. Burger pun jadilah.
 
-Budak-budak ni kalau order, nafsunya mengalahkan singa lapar, duitnya macam
-tauke balak baru dapat laba. Makan macam syaitan. Makan punya makan, sembang
-punya sembang tiba-tiba [Manjit ](http://www.flickr.com/photos/khaaiz)buka
+Budak-budak ni kalau order, nafsunya mengalahkan singa lapar, duitnya macam tauke balak baru dapat laba. Makan macam syaitan. Makan punya makan, sembang punya sembang tiba-tiba [Manjit](http://www.flickr.com/photos/khaaiz)buka
 cerita:
 
 ```
@@ -49,6 +38,4 @@ jumlahnya 27 ringgit. 2 ringgit dah bagi pelayan buat tips. Baru 29 ringgit.
 Mana lagi seringgit?
 ```
 
-Fikir punya fikir sampai bingung. Soalan ni buat aku tak lalu makan. Aku
-ketawa pecah perut bila Manjit bagi jawapan. Lepas tu, sambung balik makan.
-*Mushroom Swiss Double*. Mana boleh bazir.
+Fikir punya fikir sampai bingung. Soalan ni buat aku tak lalu makan. Aku ketawa pecah perut bila Manjit bagi jawapan. Lepas tu, sambung balik makan. *Mushroom Swiss Double*. Mana boleh bazir.
