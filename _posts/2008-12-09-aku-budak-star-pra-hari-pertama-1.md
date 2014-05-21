@@ -44,10 +44,10 @@ Lemah betul aku dengan perangai orang tua-tua ni. Cakap sekerat-sekerat.
  
 Surat apa agaknya yang sampai ke pejabat? Entah-entah surat daripada wakil rakyat hendak beri hadiah UPSR 4A? Kalau tak pun, mungkin PPD hendak beri baucar *Snack Plate*? Untungnya dapat makan KFC. Kalau dapat dua-dua, boleh makan dan beli jam tangan kereta kebal KFC. Style! Jam tangan kereta kebal? Jam tangan Kalkulator Casio pun boleh tahan juga. Lagi style!
 
-Budak usia **dua belas tahun** macam aku memang tamak.<br />
-Kalau boleh semuanya hendak.<br />
-Beli itu . Beli ini.<br />
-Tak fikir masa depan langsung.<br />
+Budak usia **dua belas tahun** macam aku memang tamak.  
+Kalau boleh semuanya hendak.  
+Beli itu . Beli ini.  
+Tak fikir masa depan langsung.  
 
 "Gaban Z, potong dua."<br />
 "*Tebaabooom!*"<br />
