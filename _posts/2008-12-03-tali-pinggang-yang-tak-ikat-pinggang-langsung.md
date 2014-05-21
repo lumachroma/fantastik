@@ -25,3 +25,7 @@ PKK geleng kepala.<br />
 *PPS - Pemandu Proton Saga<br />
 *PKK - Pasukan Keselamatan Kasukabe<br />
 </small>
+
+---
+####NOTA PANGLIPURLARA:
+Orang seberang cakap tali pinggang keledar itu 'sabuk pengaman'.
