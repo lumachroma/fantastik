@@ -52,5 +52,5 @@ Tak fikir masa depan langsung.<br />
 "Gaban Z, potong dua."<br />
 "*Tebaabooom!*"<br />
 Mata aku terpaku ke kaca televisyen.<br />
-"Kan aku dah kata tadi, Gaban mesti menang punya lah."
+"Kan aku dah kata tadi, Gaban mesti menang punya lah."<br />
 Menang lagi Gaban minggu ni.<br />
