@@ -7,10 +7,10 @@ Pagi-pagi lagi Rampwalk Remo dah bangun. Dia perlu masuk kerja shift pagi hari i
 
 Bukan senang nak jadi operator pengeluaran. Berdiri 12 jam di *production line* sambil mengendali mesin merupakan tugasan harian yang mencabar. Boleh tahan seksa. Jadinya sarapan pagi adalah penting untuk mengelakkan kes pitam ataupun bisa-bisa perut di waktu tengah hari. Biasanya Rampwalk Remo akan singgah di gerai Pak Usop Lotong yang perhampiran dengan rumah pangsa tempat dia tinggal untuk membeli kuih buat sarapan.
 
-Dari jauh orang tua itu sudah tersenyum.
-"Nak beli apa *baiya*?"
-"Nasi *ka*? Mi *ka*? Bihun *ka*? Kuih pun ada."
-Orang tua itu senyum lagi.
+Dari jauh orang tua itu sudah tersenyum.  
+"Nak beli apa *baiya*?"  
+"Nasi *ka*? Mi *ka*? Bihun *ka*? Kuih pun ada."  
+Orang tua itu senyum lagi.  
 
 *'Baiya'*. Gelaran biasa dikalangan orang-orang sini terhadap mereka-mereka yang sekaum dengan Rampwalk Remo.
 
@@ -18,13 +18,13 @@ Orang tua itu senyum lagi.
 
 Satu-satu, kuih disepit dan disumbat ke dalam beg plastik. Rampwalk Remo hanya perlu menunding kuih pilihannya. 5 biji semuanya.
 
-"*Barpa?*", sambil menyeluk kocek.
-"Dua ringgit setengah", jawab Pak Usop Lotong selamba.
-Dahi Rampwalk Remo berkerut.
-"Dulu tahun, *anam* dua *ringgi*. Awal tahun, lima dua *ringgi*. Ini hari, ampat dua *ringgi* *ka*?"
-"Apa nak buat *baiya*. Harga minyak dah naik", Pak Usop Lotong mempertahankan dirinya.
-"Satu simpan. Karipap dua, masalodeh dua, dua *ringgi*", sambil menghulurkan dua keping not seringgit.
-"Terima kasih *baiya*", duit dan kuih bertukar tangan.
+"*Barpa?*", sambil menyeluk kocek.  
+"Dua ringgit setengah", jawab Pak Usop Lotong selamba.  
+Dahi Rampwalk Remo berkerut.  
+"Dulu tahun, *anam* dua *ringgi*. Awal tahun, lima dua *ringgi*. Ini hari, ampat dua *ringgi* *ka*?"  
+"Apa nak buat *baiya*. Harga minyak dah naik", Pak Usop Lotong mempertahankan dirinya.  
+"Satu simpan. Karipap dua, masalodeh dua, dua *ringgi*", sambil menghulurkan dua keping not seringgit.  
+"Terima kasih *baiya*", duit dan kuih bertukar tangan.  
 
 Beg plastik digantung ke hendal *mountain bike*nya. Sambil mengayuh ke kilang Rampwalk Remo berkira-kira. Bab-bab duit ni Rampwalk Remo memang cerewet sikit. Bukan dia sahaja, mak, bapak, atuk, nenek dia semuanya lokek. Bukan kedekut tapi jimat.
 
