@@ -3,9 +3,10 @@ layout: post
 title: 'Aku Budak STAR : Pra Hari Pertama 2'
 ---
 
-Pagi itu. Macam pagi-pagi biasa musim riang-ria cuti sekolah. Biasalah. Aku bangun lambat. Tapi tak macam pagi-pagi biasa. Pagi itu. Aku tak teringin langsung nak melantak sarapan. Aku tak terasa lansung nak mengadap televisyen. Aku tak terfikir langsung nak keluar mandi sungai. Aku tak teruja langsung nak bikin basikal.
+Pagi itu. Macam pagi-pagi biasa musim riang-ria cuti sekolah. Biasalah. Aku bangun lambat. Tapi tak macam pagi-pagi biasa. Pagi itu. Aku tak teringin langsung nak *melantak* sarapan. Aku tak terasa lansung nak *mengadap* televisyen. Aku tak terfikir langsung nak keluar mandi sungai. Aku tak teruja langsung nak *bikin* basikal.
 
-"Aku dari pejabat tadi. Kamu dapat surat daripada Kementerian nun ha. Siap ada Jata Negara. Siap ada logo SBP", suara Makcik Zan asyik berkumandang dalam fikiran budak dua belas tahun aku.
+> "Aku dari pejabat tadi. Kamu dapat surat daripada Kementerian nun ha. Siap ada Jata Negara. Siap ada logo SBP"  
+suara Makcik Zan asyik berkumandang dalam fikiran budak dua belas tahun aku.
 
 Berulang-ulang. Tak tenteram perasaan aku dibuatnya. Jiwa kacau. Gemuruh. Seram sejuk. Apa hal?
 
