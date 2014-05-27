@@ -6,11 +6,8 @@
 
 /* This gets Google to fall into place */
 .social {
-	font-size: 1px;
-}
-/* This gets Facebook to fall into place */
-.social div {
 	vertical-align: middle;
+	font-size: 1px;
 }
 /* Set an optional width for your button wrappers */
 .social span {
