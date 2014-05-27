@@ -12,11 +12,11 @@ ul#display-inline-block-advert,
 	}
 
 	ul#display-inline-block-advert li {
-		display: inline-flex;
+		display: inline-block;
 		width: 100px;
 		min-height: 45px;
 	}
 	
-	ul#display-inline-block-advert li iframe {
+	ul#display-inline-block-advert iframe {
 		vertical-align: middle;
 	}
