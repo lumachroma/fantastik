@@ -4,19 +4,20 @@
 .fi-medium { font-size: 35px; padding: 0 5px; }
 .fi-small { font-size: 20px; padding: 0 5px; }
 
-ul#display-inline-block-advert,
- ul#display-inline-block-advert li {
-		/* Setting a common base */
-		margin: 0;
-		padding: 0;
-	}
-
-	ul#display-inline-block-advert li {
-		display: inline-block;
-		width: 100px;
-		min-height: 45px;
-	}
-	
-	ul#display-inline-block-advert iframe {
-		vertical-align: middle;
-	}
+/* This gets Google to fall into place */
+.social {
+	font-size: 1px;
+}
+/* This gets Facebook to fall into place */
+.social iframe {
+	vertical-align: middle;
+}
+/* Set an optional width for your button wrappers */
+.social span {
+	display: inline-block;
+	width: 110px;
+}
+/* Adjust the widths individually if you like */
+.social .google {
+	width: 75px;
+}
