@@ -17,11 +17,12 @@ title: 'Budak-Budak Ini Sudah Matang'
 
 > It’s been 10 years since we left school & 15 years still in contact with former schoolmates through hard, tough times.
 
-> ####The best antiques are old friends... Nazlan's favourite quote.
+> ####The best antiques are old friends...  
+> [Nazlan](https://www.facebook.com/profile.php?id=560308025)'s favourite quote.
 
 > Oh yes. I agree. It takes a long time to grow an old friend.
 
 <small>
-Syed Yunus  
+[Syed Yunus](https://www.facebook.com/syed.yunus.7)  
 March 16, 2009  
 </small>
