@@ -40,7 +40,7 @@ Mak: Kedekut. Belah rotan *je* pun.
 Aku: Belah rotan?  
 Mak: *Alah*. Cincin biasa-biasa. Cincin yang *takde* batu *tu*.  
 Aku: *Ooooo* ...  
-(Aku melopong lagi sambil angguk-angguk)
+(Aku melopong lagi sambil angguk-angguk)  
 Mak: Cantik cincin ni. Untung [Ami](http://sputnik--sweetheart.blogspot.com/).  
 
   
