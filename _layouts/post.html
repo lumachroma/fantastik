@@ -18,12 +18,14 @@ layout: default
   </center>
 </div>
 
+<ul>
 <!-- Facebook Button -->
-<p><div class="fb-share-button" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-type="button_count"></div></p>
+<li><div class="fb-share-button" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-type="button_count"></div></li>
 <!-- Twitter Button -->
-<p><a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-text="{{ page.title }}">Tweet</a></p>
+<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-text="{{ page.title }}">Tweet</a></li>
 <!-- Google Button -->
-<p><div class="g-plus" data-action="share" data-annotation="bubble" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"></div></p>
+<li><div class="g-plus" data-action="share" data-annotation="bubble" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"></div></li>
+</ul>
 
 <!-- Facebook Comments -->
 <p><fb:comments-count href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"></fb:comments-count> awesome <a id="cmnts">comment(s)</a>.</p>
