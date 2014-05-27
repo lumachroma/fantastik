@@ -349,18 +349,6 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
-/* Advertisement */
-.advert {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
-/* Social */
-.social {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
 /* Related posts */
 .related {
   padding-top: 2rem;
