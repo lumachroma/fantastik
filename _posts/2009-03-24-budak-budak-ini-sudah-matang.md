@@ -26,3 +26,19 @@ title: 'Budak-Budak Ini Sudah Matang'
 [Syed Yunus](https://www.facebook.com/syed.yunus.7)  
 March 16, 2009  
 </small>
+
+Berlangsungnya majlis makan malam sambutan tidak rasmi Ulangtahun ke-10 STAR 959. Kata pihak penganjur, yang rasmi akan diraikan bulan Jun nanti.  
+Sekitar majlis makan malam:  
+
+[![](http://2.bp.blogspot.com/_e86KQvrn6dg/SckBeWTJKfI/AAAAAAAAAVA/wWfUhM-P_7E/s200/01.jpg)](http://2.bp.blogspot.com/_e86KQvrn6dg/SckBeWTJKfI/AAAAAAAAAVA/wWfUhM-P_7E/s1600-h/01.jpg)
+
+[![](http://3.bp.blogspot.com/_e86KQvrn6dg/SckBlZz6iXI/AAAAAAAAAVo/LWT75IvDVDE/s200/06.jpg)](http://3.bp.blogspot.com/_e86KQvrn6dg/SckBlZz6iXI/AAAAAAAAAVo/LWT75IvDVDE/s1600-h/06.jpg)
+  
+[![](http://2.bp.blogspot.com/_e86KQvrn6dg/SckBegaQzqI/AAAAAAAAAVg/5q4A3AzvuXg/s200/05.jpg)](http://2.bp.blogspot.com/_e86KQvrn6dg/SckBegaQzqI/AAAAAAAAAVg/5q4A3AzvuXg/s1600-h/05.jpg)
+
+[![](http://4.bp.blogspot.com/_e86KQvrn6dg/SckBekc6lnI/AAAAAAAAAVY/bNdwi0O7b2E/s200/04.jpg)](http://4.bp.blogspot.com/_e86KQvrn6dg/SckBekc6lnI/AAAAAAAAAVY/bNdwi0O7b2E/s1600-h/04.jpg)
+
+[![](http://4.bp.blogspot.com/_e86KQvrn6dg/SckBeoHeYVI/AAAAAAAAAVQ/SWiy5nGSYsQ/s200/03.jpg)](http://4.bp.blogspot.com/_e86KQvrn6dg/SckBeoHeYVI/AAAAAAAAAVQ/SWiy5nGSYsQ/s1600-h/03.jpg)
+
+[![](http://1.bp.blogspot.com/_e86KQvrn6dg/SckBeaFoMHI/AAAAAAAAAVI/MSUwqUpMISY/s200/02.jpg)](http://1.bp.blogspot.com/_e86KQvrn6dg/SckBeaFoMHI/AAAAAAAAAVI/MSUwqUpMISY/s1600-h/02.jpg)
+
