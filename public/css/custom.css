@@ -13,6 +13,7 @@
 
 	ul#display-inline-block-advert li {
 		display: inline-block;
+		vertical-align: top;
 		width: 100px;
 		min-height: 45px;
 	}
