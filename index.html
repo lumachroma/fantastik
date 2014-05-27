@@ -11,14 +11,14 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
     {{ post.content }}
   </div>
   
   <!-- Facebook Comments -->
   <p><fb:comments-count href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"></fb:comments-count> awesome <a href="{{ site.baseurl }}{{ post.url }}#cmnts">comment(s)</a>.</p>
+  
+  {% include advert_single.html %}
   
   {% endfor %}
 </div>
