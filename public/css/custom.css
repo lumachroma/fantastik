@@ -14,5 +14,5 @@
 	ul#display-inline-block-advert li {
 		display: inline-block;
 		width: 100px;
-		min-height: 100px;
+		min-height: 45px;
 	}
