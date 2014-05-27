@@ -28,7 +28,7 @@ March 16, 2009
 </small>
 
 Berlangsungnya majlis makan malam sambutan tidak rasmi Ulangtahun ke-10 STAR 959. Kata pihak penganjur, yang rasmi akan diraikan bulan Jun nanti.  
-Sekitar majlis makan malam:  
+**Sekitar majlis makan malam:**  
 
 [![](http://2.bp.blogspot.com/_e86KQvrn6dg/SckBeWTJKfI/AAAAAAAAAVA/wWfUhM-P_7E/s200/01.jpg)](http://2.bp.blogspot.com/_e86KQvrn6dg/SckBeWTJKfI/AAAAAAAAAVA/wWfUhM-P_7E/s1600-h/01.jpg)
 
@@ -42,3 +42,23 @@ Sekitar majlis makan malam:
 
 [![](http://1.bp.blogspot.com/_e86KQvrn6dg/SckBeaFoMHI/AAAAAAAAAVI/MSUwqUpMISY/s200/02.jpg)](http://1.bp.blogspot.com/_e86KQvrn6dg/SckBeaFoMHI/AAAAAAAAAVI/MSUwqUpMISY/s1600-h/02.jpg)
 
+Sepuluh tahun lepas, aku tak pernah terfikir yang kami semua masih berkawan macam sekarang. Sepuuh tahun lepas, aku tak terfikir yang kami semua akan berjaya macam sekarang. Sepuluh tahun lepas, kami hanya budak mentah yang bercita-cita tinggi.  
+**Ulang tayang:**  
+
+Budak-budak ini 15 tahun yang lepas ...
+
+[![](http://2.bp.blogspot.com/_e86KQvrn6dg/SckCu1EDQFI/AAAAAAAAAVw/Brdh3IIMcDc/s200/400.jpg)](http://2.bp.blogspot.com/_e86KQvrn6dg/SckCu1EDQFI/AAAAAAAAAVw/Brdh3IIMcDc/s1600-h/400.jpg)
+  
+Budak-budak ini 13 tahun yang lepas ...
+
+[![](http://1.bp.blogspot.com/_e86KQvrn6dg/SckDRj6vfyI/AAAAAAAAAV4/KAIqhvNUtZY/s200/300.jpg)](http://1.bp.blogspot.com/_e86KQvrn6dg/SckDRj6vfyI/AAAAAAAAAV4/KAIqhvNUtZY/s1600-h/300.jpg)
+
+Masih budak-budak ini 12 tahun yang lepas ...
+
+[![](http://2.bp.blogspot.com/_e86KQvrn6dg/SckDd1J3OMI/AAAAAAAAAWA/hGL5MdkYMwg/s200/200.jpg)](http://2.bp.blogspot.com/_e86KQvrn6dg/SckDd1J3OMI/AAAAAAAAAWA/hGL5MdkYMwg/s1600-h/200.jpg)
+
+Dan budak-budak ini sekarang ...
+
+[![](http://3.bp.blogspot.com/_e86KQvrn6dg/SckDq2ZoRQI/AAAAAAAAAWI/-1QN0qrPb_Y/s200/100.jpg)](http://3.bp.blogspot.com/_e86KQvrn6dg/SckDq2ZoRQI/AAAAAAAAAWI/-1QN0qrPb_Y/s1600-h/100.jpg)
+
+####Ya. Budak-budak ini sudah matang!
