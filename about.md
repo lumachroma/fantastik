@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Background
+title: About
 ---
 
 <div class="message">
@@ -8,10 +8,6 @@ title: Background
 </div>
 
 Suspendisse potenti. Maecenas adipiscing tincidunt sem, id dapibus orci pellentesque vel. Etiam scelerisque quis sapien id mattis. Sed facilisis mauris vitae aliquam rutrum. Curabitur posuere augue at eros sodales pellentesque. Quisque a consequat massa, eu fermentum lorem. Nulla sed tellus purus. Fusce pellentesque enim ac elit blandit tempus. Praesent augue velit, tristique vel aliquet non, congue non lorem.
-
-Cras nulla velit, blandit id tortor ut, facilisis scelerisque lacus. Proin porta vel nunc sed cursus. Nulla et tempor ligula. Sed porta urna eu laoreet porta. Donec consequat odio et scelerisque ultricies. Nulla quis massa sed neque blandit luctus. Phasellus imperdiet placerat suscipit. Integer blandit condimentum ipsum, et mollis arcu cursus eu.
-
-# About
 
 Cras nulla velit, blandit id tortor ut, facilisis scelerisque lacus. Proin porta vel nunc sed cursus. Nulla et tempor ligula. Sed porta urna eu laoreet porta. Donec consequat odio et scelerisque ultricies. Nulla quis massa sed neque blandit luctus. Phasellus imperdiet placerat suscipit. Integer blandit condimentum ipsum, et mollis arcu cursus eu.
 
