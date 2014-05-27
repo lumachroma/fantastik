@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Background
 ---
 
 <div class="message">
@@ -11,7 +11,15 @@ Suspendisse potenti. Maecenas adipiscing tincidunt sem, id dapibus orci pellente
 
 Cras nulla velit, blandit id tortor ut, facilisis scelerisque lacus. Proin porta vel nunc sed cursus. Nulla et tempor ligula. Sed porta urna eu laoreet porta. Donec consequat odio et scelerisque ultricies. Nulla quis massa sed neque blandit luctus. Phasellus imperdiet placerat suscipit. Integer blandit condimentum ipsum, et mollis arcu cursus eu.
 
-# About this page
+# About
+
+Cras nulla velit, blandit id tortor ut, facilisis scelerisque lacus. Proin porta vel nunc sed cursus. Nulla et tempor ligula. Sed porta urna eu laoreet porta. Donec consequat odio et scelerisque ultricies. Nulla quis massa sed neque blandit luctus. Phasellus imperdiet placerat suscipit. Integer blandit condimentum ipsum, et mollis arcu cursus eu.
+
+# Credit
+
+Cras nulla velit, blandit id tortor ut, facilisis scelerisque lacus. Proin porta vel nunc sed cursus. Nulla et tempor ligula. Sed porta urna eu laoreet porta. Donec consequat odio et scelerisque ultricies. Nulla quis massa sed neque blandit luctus. Phasellus imperdiet placerat suscipit. Integer blandit condimentum ipsum, et mollis arcu cursus eu.
+
+# Colophone
 
 Just for your information, this site is:
 
