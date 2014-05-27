@@ -10,6 +10,5 @@
 }
 .social span {
 	display: inline-block;
-	min-width: 120px;
-	min-height: 60px;
+	width: 120px;
 }
