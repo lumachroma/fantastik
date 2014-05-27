@@ -14,6 +14,6 @@ Ya. Ulang semula. Kali ini untuk lunch dan dinner, termasuk supper.
 
 Hidup seperti sudah lengkap dan dunia terasa sangat indah selepas itu.
 
-[![](http://4.bp.blogspot.com/_e86KQvrn6dg/SeK_TAdnQKI/AAAAAAAAAYQ/6tcR86O05PU/s340/McD_Ikan.PNG)
+[![](http://4.bp.blogspot.com/_e86KQvrn6dg/SeK_TAdnQKI/AAAAAAAAAYQ/6tcR86O05PU/s340/McD_Ikan.PNG)](http://4.bp.blogspot.com/_e86KQvrn6dg/SeK_TAdnQKI/AAAAAAAAAYQ/6tcR86O05PU/s1600-h/McD_Ikan.PNG)
 
-[![](http://4.bp.blogspot.com/_e86KQvrn6dg/SeK_TJgryXI/AAAAAAAAAYI/7hNn-e-kU14/s340/McD_Udang.PNG)
+[![](http://4.bp.blogspot.com/_e86KQvrn6dg/SeK_TJgryXI/AAAAAAAAAYI/7hNn-e-kU14/s340/McD_Udang.PNG)](http://4.bp.blogspot.com/_e86KQvrn6dg/SeK_TJgryXI/AAAAAAAAAYI/7hNn-e-kU14/s1600-h/McD_Udang.PNG)
