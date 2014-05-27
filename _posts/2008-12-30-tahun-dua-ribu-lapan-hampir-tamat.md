@@ -5,7 +5,7 @@ title: 'Tahun Dua Ribu Lapan Hampir Tamat'
 
 Ukuran ialah proses menentukan saiz sesuatu kuantiti dalam unit yang telah ditakrifkan.
 
-Masa adalah satu unit ukuran yang penting. Asas unit (SI based unit) untuk masa adalah saat. Unit masa yang lebih besar seperti minit, jam, hari, bulan dan tahun ditakrifkan daripada saat.
+Masa adalah satu unit ukuran yang penting. Asas unit (*SI based unit*) untuk masa adalah saat. Unit masa yang lebih besar seperti minit, jam, hari, bulan dan tahun ditakrifkan daripada saat.
 
 Dalam kehidupan seharian, selalunya saat yang berlalu tidak begitu diendahkan oleh kita; manusia. Kita lebih cenderung untuk menyedari perbezaan masa dalam unit masa yang lebih besar seperti jam, hari, minggu, bulan ataupun tahun. Mungkin kerana saat itu sangat singkat. Kita yang sudah biasa tidak ambil peduli tentang perkara-perkara yang remeh, lebih mudah merasakan saat kurang sesuai untuk dijadikan pengukur.
 
@@ -13,8 +13,8 @@ Contoh-contoh tipikal berkenaan kesedaran masa:
 
 "Tahun depan umur aku dah 27 tahun".  
 "Lesen mati lagi sebulan".  
-"Alamak, next week exam!".  
-"Dua hari lagi, sampailah tu".  
+"*Alamak*, *next week exam*!".  
+"Dua hari lagi, sampailah *tu*".  
 "Esok gaji".  
 "Dua jam lagi nak rehat".  
 
