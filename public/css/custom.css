@@ -1,6 +1,19 @@
 /* http://zurb.com/playground/foundation-icon-fonts-3 */
-
 .fi-xlarge{ font-size: 72px; line-height: 72px; }
 .fi-large{ font-size: 50px; line-height: 50px; }
 .fi-medium { font-size: 35px; padding: 0 5px; }
 .fi-small { font-size: 20px; padding: 0 5px; }
+
+  ul#display-inline-block-advert,
+	ul#display-inline-block-advert li {
+		/* Setting a common base */
+		margin: 0;
+		padding: 0;
+	}
+
+	ul#display-inline-block-advert li {
+		display: inline-block;
+		width: 100px;
+		min-height: 100px;
+		background: #ccc;
+	}
