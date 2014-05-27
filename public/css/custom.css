@@ -4,7 +4,16 @@
 .fi-medium { font-size: 35px; padding: 0 5px; }
 .fi-small { font-size: 20px; padding: 0 5px; }
 
+/* Advertisement */
+.advert {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+/* Social */
 .social {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 	vertical-align: middle;
 	font-size: 1px;
 }
