@@ -17,7 +17,7 @@ Aku: *Ooooo* ...
 Aku: Mak. Nak pergi beli cincin tanda ni. Mak nak ikut?  
 (Mak aku buat muka terkejut ala-ala *exited*)  
 Aku: *Next two weeks* mak dengan ayah kena tolong pergi merisik *tau*.  
-Mak: *Takpe* lah. Ajak Adik. Lagipun kereta dah tak muat kan? 
+Mak: *Takpe* lah. Ajak Adik. Lagipun kereta dah tak muat kan?  
 Aku: Ok. Betul ni mak?  
 Mak: Betul. Adik boleh tolong pilih. Berape *budget* kamu?  
 Aku: *xxx CENSORED xxx*  
