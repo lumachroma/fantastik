@@ -13,7 +13,7 @@ Mak: *Alah*. Cincin biasa-biasa. Cincin yang *takde* batu *tu*.
 Aku: *Ooooo* ...  
 (Aku melopong sambil angguk-angguk)
 
-*__Sekitar awal tahun ini__*
+*__Sekitar awal tahun ini__*  
 Aku: Mak. Nak pergi beli cincin tanda ni. Mak nak ikut?  
 (Mak aku buat muka terkejut ala-ala *exited*)  
 Aku: *Next two weeks* mak dengan ayah kena tolong pergi merisik *tau*.  
@@ -29,7 +29,7 @@ Mak: *Alah*. Cincin biasa-biasa. Cincin yang *takde* batu *tu*.
 Aku: *Ooooo* ...  
 (Aku melopong lagi sambil angguk-angguk)
 
-*__Hari yang sama sekitar awal tahun ini__*
+*__Hari yang sama sekitar awal tahun ini__*  
 Mak: Mana cincin? *Bak* sini mak tengok.  
 Aku: Ni.  
 (Aku bagi bekas cincin pada mak)  
