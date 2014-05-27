@@ -9,7 +9,7 @@
 	font-size: 1px;
 }
 /* This gets Facebook to fall into place */
-.social iframe {
+.social div {
 	vertical-align: middle;
 }
 /* Set an optional width for your button wrappers */
