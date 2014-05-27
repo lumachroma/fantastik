@@ -12,14 +12,20 @@ layout: default
 
         {% include advert_single.html %}
 
-        <ul id="display-inline-block-advert">
-        <!-- Facebook Button -->
-        <li><div class="fb-share-button" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-type="button_count"></div></li>
-        <!-- Twitter Button -->
-        <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-text="{{ page.title }}">Tweet</a></li>
-        <!-- Google Button -->
-        <li><div class="g-plus" data-action="share" data-annotation="bubble" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"></div></li>
-        </ul>
+        <div class="social">
+          <span class="facebook">
+            <!-- Facebook Button -->
+            <div class="fb-share-button" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-type="button_count"></div>
+          </span>
+          <span class="twitter">
+          <!-- Twitter Button -->
+              <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-text="{{ page.title }}">Tweet</a>
+          </span>
+          <span class="google">
+            <!-- Google Button -->
+            <div class="g-plus" data-action="share" data-annotation="bubble" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"></div>
+          </span>
+        </div>
 
 
         <!-- Facebook Comments -->
