@@ -42,7 +42,7 @@ Berlangsungnya majlis makan malam sambutan tidak rasmi Ulangtahun ke-10 STAR 959
 
 [![](http://1.bp.blogspot.com/_e86KQvrn6dg/SckBeaFoMHI/AAAAAAAAAVI/MSUwqUpMISY/s200/02.jpg)](http://1.bp.blogspot.com/_e86KQvrn6dg/SckBeaFoMHI/AAAAAAAAAVI/MSUwqUpMISY/s1600-h/02.jpg)
 
-Sepuluh tahun lepas, aku tak pernah terfikir yang kami semua masih berkawan macam sekarang. Sepuuh tahun lepas, aku tak terfikir yang kami semua akan berjaya macam sekarang. Sepuluh tahun lepas, kami hanya budak mentah yang bercita-cita tinggi.  
+Sepuluh tahun lepas, aku tak pernah terfikir yang kami semua masih berkawan macam sekarang. Sepuluh tahun lepas, aku tak terfikir yang kami semua akan berjaya macam sekarang. Sepuluh tahun lepas, kami hanya budak mentah yang bercita-cita tinggi.  
 **Ulang tayang:**  
 
 Budak-budak ini 15 tahun yang lepas ...
