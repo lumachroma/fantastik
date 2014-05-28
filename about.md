@@ -11,8 +11,8 @@ Suspendisse potenti. Maecenas adipiscing tincidunt sem, id dapibus orci pellente
 
 Cras nulla velit, blandit id tortor ut, facilisis scelerisque lacus. Proin porta vel nunc sed cursus. Nulla et tempor ligula. Sed porta urna eu laoreet porta. Donec consequat odio et scelerisque ultricies. Nulla quis massa sed neque blandit luctus. Phasellus imperdiet placerat suscipit. Integer blandit condimentum ipsum, et mollis arcu cursus eu.
 
-<div class="message bg-purple black">
-  <i class="fi-anchor fi-large white"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor elit, laoreet sed odio id, volutpat pellentesque justo.
+<div class="message bg-teal black">
+  <i class="fi-asl fi-large white"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor elit, laoreet sed odio id, volutpat pellentesque justo.
 </div>
 
 # Credit
