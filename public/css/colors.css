@@ -121,7 +121,7 @@
 a {
   -webkit-transition: color 0.3s ease-in-out;
   transition: color 0.3s ease-in-out; }
-
+/*
 a:link {
   color: #0074d9; }
 
@@ -133,3 +133,4 @@ a:hover {
 
 a:active {
   color: #ff851b; }
+*/
