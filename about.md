@@ -3,12 +3,10 @@ layout: page
 title: About
 ---
 
-<div class="message">
   Currently Software Engineer at [Grass Valley](http://www.grassvalley.com/contact/engineering), Malaysia. 
   Write *code* and read books on daily basis. 
   Previously Software Design Engineer at [Sony](http://www.sony.net/SonyInfo/csr/SonyEnvironment/archive/special/soem.html), Malaysia. 
   Married to prolific blogger and cancer fighter [*Ami Schaheera*](http://www.amischaheera.com/).
-</div>
 
 Suspendisse potenti. Maecenas adipiscing tincidunt sem, id dapibus orci pellentesque vel. Etiam scelerisque quis sapien id mattis. Sed facilisis mauris vitae aliquam rutrum. Curabitur posuere augue at eros sodales pellentesque. Quisque a consequat massa, eu fermentum lorem. Nulla sed tellus purus. Fusce pellentesque enim ac elit blandit tempus. Praesent augue velit, tristique vel aliquet non, congue non lorem.
 
