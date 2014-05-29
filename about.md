@@ -9,8 +9,9 @@ title: About
 > Married to prolific blogger and cancer fighter [**Ami Schaheera**](http://www.amischaheera.com/). 
 > Enjoy being humble [KLites](http://en.wikipedia.org/wiki/KLites).
 
+Nazrul Hisham is a coder/designer living and working in Kuala Lumpur, Malaysia. He was born and raised by teacher father and housewife mother in Perak, Malaysia. 
 
-Nazrul Hisham is a coder/designer living and working in Kuala Lumpur, Malaysia.
+At the age of thirteen he attended [Sekolah Tuanku Abdul Rahman](http://en.wikipedia.org/wiki/Sekolah_Tuanku_Abdul_Rahman) ([STAR](http://www.staripoh.com/); a premier all-boys fully residential school in Ipoh, Perak to persue his secondary education. 
 
 Suspendisse potenti. Maecenas adipiscing tincidunt sem, id dapibus orci pellentesque vel. Etiam scelerisque quis sapien id mattis. Sed facilisis mauris vitae aliquam rutrum. Curabitur posuere augue at eros sodales pellentesque. Quisque a consequat massa, eu fermentum lorem. Nulla sed tellus purus. Fusce pellentesque enim ac elit blandit tempus. Praesent augue velit, tristique vel aliquet non, congue non lorem.
 
