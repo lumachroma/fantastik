@@ -10,7 +10,7 @@ permalink:        pretty
 baseurl:          ''
 
 #Excerpt Separator
-excerpt_separator: <!--more-->
+excerpt_separator: '<!--more-->'
 
 # Setup
 title:            '@nazrulhisham_'
