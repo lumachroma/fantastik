@@ -15,6 +15,8 @@ As a kid, he was bright and obedient and always wonders about the *stars, galaxy
 
 At the age of thirteen he attended [Sekolah Tuanku Abdul Rahman](http://en.wikipedia.org/wiki/Sekolah_Tuanku_Abdul_Rahman) ([STAR](http://www.staripoh.com/)), a premier all-boys fully residential school in Ipoh, Perak to pursue his secondary education for five years. Being independent at such young age, he learnt not only the formal education but also the meaning of life the hard way through thick and thin, through blood, sweat and tears. He met and lived with his early childhood friends came from all parts of Malaysia with different kinds of family background and status that helped him developed his social skills. He was actively involved in sports and represented his school in the under-15 and under-18 rugby team. He was also the President of the school Librarian and Vice-Captain of Black Sport House when he was in Form 5.
 
+He graduated high school with flying colors and enter college the following year. 
+
 <div class="message bg-teal black">
   <i class="fi-asl fi-large white"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor elit, laoreet sed odio id, volutpat pellentesque justo.
 </div>
