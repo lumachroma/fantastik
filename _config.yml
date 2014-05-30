@@ -9,6 +9,9 @@ permalink:        pretty
 # baseurl:          /fantastiq
 baseurl:          ''
 
+#Excerpt Separator
+excerpt_separator: <!--more-->
+
 # Setup
 title:            '@nazrulhisham_'
 tagline:          'Everlasting Harmony & Serenity'
