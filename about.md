@@ -33,11 +33,11 @@ who goes by the pseudonym prettyka0ru, meami or Ami Schaheera
 who was able to change his course of life.  
 Little that they know back then  
 that they would end up falling in love  
-and marrying to each other
+and marrying to each other.
 
-When there's a will there's a way. She was the one who was able to enable him during the hardships. She convinced him to continue his studies. She encouraged him to pursue his dreams.  She gave the idea of changing his major. She renewed him.
+When there's a will there's a way. She was the one who was able to enable him during the hardships. She convinced him to continue his studies. She encouraged him to pursue his dreams. She gave the idea of changing his major. She renewed him.
 
-In 2004, he appealed to change his major to Sofware Engineering. Slowly he began to pickup subjects, started to attend classes and passing examinations. Soon after, he managed to gain back his confidence that he almost lost right there. After been through a lot of hurdles and ups and downs, through thick and thin, through blood, sweat and tears, together, in 2006, he graduated college with flying colors, thanks to that sweet lovely girl. 
+In 2004, he appealed to change his major to Sofware Engineering. Slowly he began to pickup subjects, started to attend classes and passing examinations. Soon after, he managed to gain back his confidence, his talent, that he almost lost right there. After been through a lot of hurdles and ups and downs, again, through thick and thin, through blood, sweat and tears, together, in 2006, he graduated college with flying colors, thanks to that sweet lovely girl. 
 
 <div class="message bg-teal black">
   <i class="fi-asl fi-large white"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor elit, laoreet sed odio id, volutpat pellentesque justo.
