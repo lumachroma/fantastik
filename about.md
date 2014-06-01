@@ -15,29 +15,29 @@ As a kid, he was bright and obedient and always wonders about the *stars, galaxy
 
 In 1995 at the age of thirteen he attended [Sekolah Tuanku Abdul Rahman](http://en.wikipedia.org/wiki/Sekolah_Tuanku_Abdul_Rahman) ([STAR](http://www.staripoh.com/)), a premier all-boys fully residential school in Ipoh, Perak to pursue his secondary education for five years. Being independent at such young age, he learnt not only the formal education but also the meaning of life the hard way through thick and thin, through blood, sweat and tears. He met and lived with his early childhood friends came from all parts of Malaysia with different kinds of family background and status that helped him developed his social skills. He was actively involved in sports and represented his school in the under-15 and under-18 rugby team. He was also the President of the school Librarian and Vice-Captain of Black Sport House when he was in Form 5. He graduated high school with flying colors and entered college the following year.
 
-Circa 1996 -1997, Malaysian Prime Minister, Tun Dr. Mahathir Mohamad executed Multimedia Super Corridor inisiative to educate Malaysian citizens to be IT literate. At that time he began his interest into gaming and the internet that eventually led him to experiment with various fields in computing. He wandered around internet mostly on IRC servers (DALnet) and technical forums. He became in touched with a lot of coders and scripters, mostly enthusiasts and experts, thus quickly made him fell in love with programming and technology.
+Circa 1996 -1997, Malaysian Prime Minister, [Tun Dr. Mahathir Mohamad](http://en.wikipedia.org/w/index.php?title=Mahathir_Mohamad) executed [Multimedia Super Corridor](http://en.wikipedia.org/w/index.php?title=MSC_Malaysia) inisiative to educate Malaysian citizens to be [IT](http://en.wikipedia.org/wiki/Information_technology) literate. At that time he began his interest into gaming and the internet that eventually led him to experiment with various fields in computing. He wandered around internet mostly on [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) servers ([DALnet](http://www.dal.net)) and technical forums. He became in touched with a lot of **coders** and **scripters**, mostly *enthusiasts* and *experts*, thus quickly made him fell in love with programming and technology.
 
-Despite his great interest in IT, he enrolled for Electronic Engineering course in Multimedia University (MMU), one of the leading and reputable private institution in Malaysia focused on ICT in 2000. Being a college kid having greater control over his lifestyle and his cash really pushed him to the next level in his life. Great exposure and easy access to new technologies increased his passion with programming and the internet. He would spent most hours developing websites, computer applications and mIRC scripts or invested his money and time building and overclocking his computers. During free time he would get involved in playing computer games and watching anime. 
+Despite his great interest in IT, he enrolled for Electronic Engineering course in [Multimedia University](https://www.mmu.edu.my) ([MMU](http://en.wikipedia.org/wiki/Multimedia_University)), one of the leading and reputable private institution in Malaysia focused on [ICT](http://en.wikipedia.org/wiki/Information_and_communications_technology) in 2000. Being a college kid having greater control over his lifestyle and his cash really pushed him to the next level in his life. Great exposure and easy access to new technologies increased his passion with programming and the internet. He would spent most hours **developing websites, computer applications and [mIRC](http://www.mirc.com) scripts** or invested his money and time building and *overclocking* his computers. During free time he would get involved in playing computer games and watching [anime](http://en.wikipedia.org/wiki/Anime )s. 
 
-Without realized he started failing most of his engineering subjects and scoring only on computer related subjects (which is only minor for engineering majored student). Facing  such difficulties and complications would only dragged him into more problematic life socially and financially. At one point it almost caused him to be expelled from college!
+Without realized he started failing most of his engineering subjects and scoring only on computer related subjects (which is only minor for engineering majored student). Facing  such difficulties and complications would only dragged him into more problematic life socially and financially. *At one point it almost caused him to be expelled from college!*
 
-In 2003 he met a kind and sweet girl goes by the nickname 'prettyka0ru' in one of the many chat rooms on DALnet IRC network. One thing let to another, into the first few months of their constant chatting, they quickly became acquainted and started dating in real life. 
+In 2003 he met a kind and sweet girl goes by the nickname '*prettyka0ru*' in one of the many chat rooms on DALnet IRC network. One thing let to another, into the first few months of their constant chatting, they quickly became acquainted and started dating in real life. 
  
 > They say when you meet the love of your life, time stops, and that's true.
 
 > <small>Edward Bloom, Big Fish</small>
 
 She  
-who was Godsend, guardian angel  
-who goes by the pseudonym prettyka0ru, meami or Ami Schaheera  
+who was Godsend, Guardian Angel  
+who goes by the pseudonym **prettyka0ru**, **meami** or [**Ami Schaheera**](http://www.amischaheera.com)  
 who was able to change his course of life.  
 Little that they knew back then  
-that they would end up falling in love  
-and marrying to each other.
+that they would end up *falling in love*  
+and *marrying* to each other.
 
 When there's a will there's a way. She was the one who was able to enable him during the hardships. She convinced him to continue his studies. She encouraged him to pursue his dreams. She gave him the idea of changing his major. She renewed him.
 
-In 2004, he appealed to change his major to Sofware Engineering. Slowly he began to pickup subjects, started to attend classes and passing examinations. Soon after, he managed to gain back his confidence, his talent, that he almost lost right there. After been through a lot of hurdles and ups and downs, again, through thick and thin, through blood, sweat and tears, together, in 2006, he graduated college with flying colors, thanks to that sweet lovely girl. 
+In 2004, he appealed to change his major to Sofware Engineering. Slowly he began to pickup subjects, started to attend classes and passing examinations. Soon after, he managed to gain back his confidence, his talent, that he almost lost right there. After been through a lot of hurdles and ups and downs, again, through thick and thin, through blood, sweat and tears, together, in 2006, he graduated college with flying colors, *thanks to that sweet lovely girl*. 
 
 <div class="message bg-teal black">
   <i class="fi-asl fi-large white"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dolor elit, laoreet sed odio id, volutpat pellentesque justo.
