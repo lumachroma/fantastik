@@ -44,4 +44,4 @@ Betul kata orang tua-tua.
 
 Ya memang aku *__homesick__*.  
 Dan lagi ...  
-Aku rindu minah kawai [ni](http://sputnik--sweetheart.blogspot.com/).  
+Aku rindu *__minah kawai [ni](http://sputnik--sweetheart.blogspot.com/)__*.  
