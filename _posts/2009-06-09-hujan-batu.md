@@ -5,7 +5,7 @@ title: 'Hujan Batu'
 
 Di suatu malam yang hening, ketika berjalan pulang dari kerja, aku seluk poket seluar *jeans*. Aku capai kotak rokok **_Pall Mall_** hijau yang ada gambar anak makhluk asing tu. Tinggal sebatang. Aku hampa. Bekalan rokok yang aku bawa dari Malaysia lima kotak semuanya sudah kehabisan.
 
-Waktu itu cuaca amat sejuk dan mungkin hujan akan turun sebab langit gelap tanpa sebutir bintang pun yang kelihatan. Aku zip baju sejuk sampai atas. Sampai paras leher. Masih sejuk. Di kejauhan, di celah-celah bangunan-bangunan pejabat yang meninggi aku nampak *Tokyo Tower*. Semalam lampu kuning. Hari ni lampu biru. Memang selalu-selalu lampu kuning. Hari saja yang lampu biru. Mungkin sebab Jepun dah layak Piala Dunia 2010 *kot*.
+Waktu itu cuaca amat sejuk dan mungkin hujan akan turun. Sebab langit gelap. Tiada sebutir bintang pun yang kelihatan. Aku zip baju sejuk sampai atas. Sampai paras leher. Masih sejuk. Di kejauhan, di celah-celah bangunan-bangunan pejabat yang meninggi aku nampak *Tokyo Tower*. Semalam lampu kuning. Hari ni lampu biru. Memang selalu-selalu lampu kuning. Hari saja yang lampu biru. Mungkin sebab Jepun dah layak Piala Dunia 2010 *kot*.
 
 Perjalanan pulang ke hotel terpaksa dilencongkan ke *7-Eleven* terdekat. Macam biasa staf-staf *7-Eleven* di kaunter menyambut aku dengan ucapan-ucapan mesra yang aku tak faham sebutir pun sambil mereka sedang sibuk melayan pelanggan lain.
 
