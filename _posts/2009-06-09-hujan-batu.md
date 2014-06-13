@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bujan Batu'
+title: 'Hujan Batu'
 ---
 
 Di suatu malam yang hening, ketika berjalan pulang dari kerja, aku seluk poket seluar *jeans*. Aku capai kotak rokok **_Pall Mall_** hijau yang ada gambar anak makhluk asing tu. Tinggal sebatang. Aku hampa. Bekalan rokok yang aku bawa dari Malaysia lima kotak semuanya sudah kehabisan.
