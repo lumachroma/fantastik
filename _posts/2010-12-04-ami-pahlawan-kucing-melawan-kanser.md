@@ -8,7 +8,12 @@ title: 'Ami; Pahlawan Kucing Melawan Kanser'
 </center>
 
 > *Ami the Cancer-fighting Cat by [Moon HMZ](http://moonhmz.tumblr.com/), December 1, 2010.*  
-> *She said "I made this drawing for Ami a.k.a [sputniksweetheart](http://sputnik--sweetheart.blogspot.com/)to show my support :)"*  
+
+<small>
+
+> *She said "I made this drawing for Ami a.k.a [sputniksweetheart](http://sputnik--sweetheart.blogspot.com/) to show my support :)"*  
+
+</small>
 
 Sebagai seorang pesakit kanser, Ami sangat tabah. Melawan kanser bukanlah satu perkara mudah. Ia membabitkan nyawa. Ia memerlukan tahap kesabaran yang tinggi dan kegigihan yang konsisten untuk terus 'berperang' dengan kanser. Rawatan kanser seperti kemoterapi (*[Chemotherapy](http://en.wikipedia.org/wiki/Chemotherapy)*) dan transplantasi (*[Bone Marrow Transplant](http://en.wikipedia.org/wiki/Bone_marrow_transplant)*) adalah rawatan yang menyakitkan dan membawa sengsara.
 
