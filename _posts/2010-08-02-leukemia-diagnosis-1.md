@@ -78,8 +78,8 @@ Bila kami keluar, hujan masih renyai-renyai. Kami terus ke kereta. Sampai dekat 
 Walau macam mana pun aku cuba tenangkan dia. Aku cakap kita masih belum tahu dia sakit apa sebenarnya. Doktor tadi cuma bagi *hint* dan *wild guess* je. Biar sampai ke Hospital Ampang dulu dan periksa darah semula. Tengok apa doktor sana cakap pula. Mana tahu semua ni adalah *false alarm je*. 
 
 Tapi *deep down* sebenarnya  
-aku pun sedih juga,  
-aku pun takut juga.  
+> aku pun sedih juga,  
+> aku pun takut juga.  
 
 Sama-sama kami berdoa kepada Tuhan minta jauhkan dari segala penyakit dan kesusahan.
 
