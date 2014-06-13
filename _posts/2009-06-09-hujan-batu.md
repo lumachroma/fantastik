@@ -33,7 +33,7 @@ Sambil jalan-jalan malam-malam buta, angin sepoi-sepoi, cuaca sejuk-sejuk, hisap
 
 Sah aku *__homesick__*.
 
-[![](http://1.bp.blogspot.com/_e86KQvrn6dg/Si3g4eykmOI/AAAAAAAAAdo/PgQsBD141Ug/s320/DSC00587.JPG)](http://1.bp.blogspot.com/_e86KQvrn6dg/Si3g4eykmOI/AAAAAAAAAdo/PgQsBD141Ug/s1600-h/DSC00587.JPG)"
+[![](http://1.bp.blogspot.com/_e86KQvrn6dg/Si3g4eykmOI/AAAAAAAAAdo/PgQsBD141Ug/s320/DSC00587.JPG)](http://1.bp.blogspot.com/_e86KQvrn6dg/Si3g4eykmOI/AAAAAAAAAdo/PgQsBD141Ug/s1600-h/DSC00587.JPG)
 
 Nasib baik aku masih ada sebatang *Pall Mall* hijau untuk *emergency*.
 
