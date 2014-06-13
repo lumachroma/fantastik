@@ -73,7 +73,7 @@ Sebelum kami keluar sempat lagi doktor tu pesan. Waktu tu aku rasa memang doktor
 Bila kami keluar, hujan masih renyai-renyai. Kami terus ke kereta. Sampai dekat kereta aku tengok Salmi masih menangis.
 
 > Aku tahu, dia sedih.  
-> Aku tahu dia takut.  
+> Aku tahu, dia takut.  
 
 Walau macam mana pun aku cuba tenangkan dia. Aku cakap kita masih belum tahu dia sakit apa sebenarnya. Doktor tadi cuma bagi *hint* dan *wild guess* je. Biar sampai ke Hospital Ampang dulu dan periksa darah semula. Tengok apa doktor sana cakap pula. Mana tahu semua ni adalah *false alarm je*. 
 
