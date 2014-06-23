@@ -15,6 +15,21 @@ title: Home
     {{ post.excerpt }}
   </div>
   
+  <div class="social">
+    <span class="facebook">
+      <!-- Facebook Button -->
+      <div class="fb-share-button" data-href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" data-type="button_count"></div>
+    </span>
+    <span class="twitter">
+      <!-- Twitter Button -->
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ site.baseurl }}{{ post.url }}" data-text="{{ post.title }}">Tweet</a>
+    </span>
+    <span class="google">
+      <!-- Google Button -->
+      <div class="g-plus" data-action="share" data-annotation="bubble" data-href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"></div>
+    </span>
+  </div>  
+  
   <!-- Facebook Comments -->
   <p><fb:comments-count href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"></fb:comments-count> awesome <a href="{{ site.baseurl }}{{ post.url }}#cmnts">comment(s)</a>.</p>
   
