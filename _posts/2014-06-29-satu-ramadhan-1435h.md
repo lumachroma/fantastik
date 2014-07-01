@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '1 Ramadhan 1435H'
+date: '2014-06-29 16:30:00 +0800'
 ---
 
 So far.  
