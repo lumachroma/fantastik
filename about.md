@@ -32,8 +32,9 @@ who was Godsend, Guardian Angel
 who goes by the pseudonym **prettyka0ru**, **meami** or [**Ami Schaheera**](http://www.amischaheera.com)  
 who was able to change his course of life.  
 Little that they knew back then  
-that they would end up *falling in love*  
-and *marrying* to each other.
+that they were *compatible*  
+that they would be *falling in love*  
+and that they would end up *marrying* to each other.
 
 When there's a will there's a way. She was the one who was able to enable him during the hardships. She convinced him to continue his studies. She encouraged him to pursue his dreams. She gave him the idea of changing his major. She renewed him.
 
