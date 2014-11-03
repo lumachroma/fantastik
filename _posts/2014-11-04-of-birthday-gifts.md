@@ -28,8 +28,9 @@ Again, I guess, the same song is still relevant, not for her now but for me.
 
 ***
 
-*Stop Crying Your Heart Out*  
-**By Oasis**  
+<div class="message bg-teal black">
+**Stop Crying Your Heart Out**  
+*By Oasis*  
 
 Hold up  
 Hold on  
@@ -80,6 +81,7 @@ And be on your way
 And stop crying your heart out  
 Stop crying your heart out  
 Stop crying your heart out  
+</div>
 
 ***
 
