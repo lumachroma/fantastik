@@ -29,8 +29,8 @@ Again, I guess, the same song is still relevant, not for her now but for me.
 ***
 
 ```
-**Stop Crying Your Heart Out**  
-*By Oasis*  
+Stop Crying Your Heart Out  
+By Oasis  
 
 Hold up  
 Hold on  
