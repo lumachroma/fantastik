@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Of Birthday Gift'
-date: '2014-11-04 01:10:00'
+title: 'Of Birthday Gifts'
+date: '2014-11-04 00:10:00'
 ---
 
 <small>
 Assalamualaikum w.b.t.
 
-There are no greater gifts on my birthday than a simple and sincere act of reciting Al-Fatiha and sadaqah (voluntary charity) for dearly beloved Allahyarhamah [Salmi Syahirah](http://www.amischaheera.com/);[@amischaheera](http://instagram.com/amischaheera).
+There are no greater gifts on my birthday than a simple and sincere act of reciting Al-Fatiha and sadaqah (voluntary charity) for dearly beloved Allahyarhamah [Salmi Syahirah](http://www.amischaheera.com/), [@amischaheera](http://instagram.com/amischaheera).
 
 Let us pray for her and expect the best from God.  
 May her soul rest in peace, and she find love in the arms of God, InsyaAllah.  
