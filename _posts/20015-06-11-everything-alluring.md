@@ -1,12 +1,18 @@
 ---
 layout: post
-title: 'The dude'
+title: 'Everything Alluring'
 ---
 
-(Al-Asr The Noble Qur'an chapter 103)
-
-> In the name of Allah, the Compassionate, the Merciful.
-
-> By the declining day,
-Lo! man is in a state of loss,
-Save those who believe and do good works, and exhort one another to truth and exhort one another to endurance.
+honey spun hair  
+and hickory eyes  
+  
+you are sprawling meadows  
+a mouth foll of baby moons  
+you are so many things beautiful  
+that i have never seen  
+  
+now no matter where i go  
+no matter where i've been  
+you alone are the only place  
+that i will ever call home  
+  
