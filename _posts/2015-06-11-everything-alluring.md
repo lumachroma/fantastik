@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Everything Alluring'
+date: '2015-06-11 14:27:43'
 ---
 
 honey spun hair  
