@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The dude
+title: 'The dude'
 ---
 
 (Al-Asr The Noble Qur'an chapter 103)
