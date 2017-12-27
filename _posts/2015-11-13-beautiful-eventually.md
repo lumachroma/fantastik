@@ -14,6 +14,7 @@ in this world
 you will  
 eventually  
 become it  
-
->Tyler Kent White  
 </small>
+  
+>Tyler Kent White  
+  
