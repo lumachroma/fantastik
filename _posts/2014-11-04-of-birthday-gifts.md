@@ -4,7 +4,6 @@ title: 'Of Birthday Gifts'
 date: '2014-11-04 00:10:00'
 ---
 
-<small>
 Assalamualaikum w.b.t.
 
 There are no greater gifts on my birthday than a simple and sincere act of reciting Al-Fatiha and sadaqah (voluntary charity) for dearly beloved Allahyarhamah [Salmi Syahirah](http://www.amischaheera.com/), [@amischaheera](http://instagram.com/amischaheera).
@@ -14,7 +13,7 @@ May her soul rest in peace, and she find love in the arms of God, InsyaAllah.
 
 Ameen.
 
-![Alt text](http://photos-a.ak.instagram.com/hphotos-ak-xaf1/10787737_1539392192962936_167624391_n.jpg)
+![#amiootd #shooting #stailista #behindthescene](https://instagram.fkul8-1.fna.fbcdn.net/t51.2885-15/e15/1515683_1422169698015427_93350050_n.jpg)
 
 About 4 and a half-years ago, 2 weeks into the marriage, Ami was pronounced ill of Acute Myeloid Leukemia. It was shocking, devastating, grieving and shattering circumstance for the both of us, of course. 
 
@@ -92,4 +91,3 @@ Thanks a lot everyone.
 Alhamdulillah.  
 May god bless us all.  
 Amin.  
-</small>
