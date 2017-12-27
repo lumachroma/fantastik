@@ -25,5 +25,3 @@ Alhamdulillah, syukur semuanya berjalan lancar.
 Walaupun 'ketar', satu kali 'hejut' je dah lepas.  
 
 Terima kasih kepada semua yang memberi ucapan dan yang hadir ke majlis walimah kami.
-
-[![](http://lh4.ggpht.com/_e86KQvrn6dg/S_YxUr_b38I/AAAAAAAAAzo/gAWD49CPy-s/s320/26596_397820301760_607286760_4476528_119565_n.jpg)](http://lh4.ggpht.com/_e86KQvrn6dg/S_YxUr_b38I/AAAAAAAAAzo/gAWD49CPy-s/s1600/26596_397820301760_607286760_4476528_119565_n.jpg)
