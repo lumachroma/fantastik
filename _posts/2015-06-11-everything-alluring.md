@@ -4,7 +4,6 @@ title: 'Everything Alluring'
 date: '2015-06-11 14:27:43'
 ---
 
-<small>
 honey spun hair  
 and hickory eyes  
   
@@ -17,4 +16,4 @@ now no matter where i go
 no matter where i've been  
 you alone are the only place  
 that i will ever call home  
-</small>
+  
